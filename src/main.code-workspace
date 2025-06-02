@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "D:/Arduino/calculator/main"
+		},
+		{
+			"name": "250522-220512-uno",
+			"path": "../../250522-220512-uno"
+		},
+		{
+			"name": "calculator",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.lua": "glua",
+			"*.asm": "asm-intel-x86-generic",
+			"*.ino": "arduino-output",
+			"xstring": "cpp",
+			"vector": "cpp",
+			"xutility": "cpp",
+			"initializer_list": "cpp",
+			"utility": "cpp"
+		}
+	}
+}
